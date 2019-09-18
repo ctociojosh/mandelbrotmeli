@@ -1,0 +1,30 @@
+
+{
+  "name": "mandelbrot-set-nodejs",
+  "version": "1.0.0",
+  "description": "A simple Mandelbrot implementation in HTML5 and node.js",
+  "main": "mandelbrot.js",
+  "scripts": {
+    "start": "node mandelbrot.js"
+  },
+  "dependencies": {
+    "express": "^5.4.2"
+  },
+  "engines": {
+    "node": "8.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctociojosh/mandelbrot-set-nodejs"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Joshua Izzard",
+  "contributors": [
+    "Joshua Izzard <jhizzard@gmail.com> (http://greenlots.com)"
+  ],
+  "license": "MIT"
+}
